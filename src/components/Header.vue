@@ -8,7 +8,7 @@ name: 'Header'
       <div class="greet-block">
         
       <div class="header-wellcome-card">
-        <h1><span>Привет, Арман!</span><img src="@/assets/icon/🦆 emoji _waving hand sign_.svg" alt=""></h1>
+        <h1><span>Привет, Арман!</span><img src="@/assets/icon/emoji.svg" alt=""></h1>
         <p>Давай научимся чему-то новому! </p>
       </div>
       </div>
